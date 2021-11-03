@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lancefredrictaylor
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Programming (Gold)
+- 🌱 I’m currently learning Programming
 - 💞️ I’m looking to collaborate on Web Development
 
 <!---
